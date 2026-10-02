@@ -1,5 +1,9 @@
 # Lab 3 – Component Modelling & Architectural Pattern Selection
 
+## Name - Prakruthi.NK
+
+## SRN - PES2UG24AM118
+
 ## Objective
 
 The objective of this lab is to evaluate different architectural styles, select a suitable architecture for the assigned scenario, and create a UML Component Diagram showing the components, interfaces, and dependencies.
